@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salar</h1>
-<h3 align="center">A front-end developer and solopreneur</h3>
+<h3 align="center">A solopreneur and front-end developer</h3>
 
 - 🔭 I’m currently working on [Zagreus Company](https://zagreus.company)
 
